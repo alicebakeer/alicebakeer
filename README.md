@@ -78,8 +78,8 @@ const alice = {
 
 ### 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: (add your link)
+* GitHub:(https://github.com/alicebakeer)
+* LinkedIn:(https://www.linkedin.com/in/alice-bakeer)
 
 ---
 
