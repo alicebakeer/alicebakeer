@@ -1,12 +1,16 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Alice Bakeer <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1 align="center">Hi, I'm Alice Bakeer 👋</h1>
+<h3 align="center">Flutter Developer 📱 | Full Stack Web Developer 🌐 | Cybersecurity Enthusiast 🔐</h3>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<p><em>Computer Science Student 👩‍💻 | Flutter Developer | Full Stack Web Developer 🚀</em></p>
+<p align="center">
+  <a href="https://github.com/alicebakeer"><img src="https://img.shields.io/badge/GitHub-Alice-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/alice-bakeer"><img src="https://img.shields.io/badge/LinkedIn-Alice-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
 ---
 
-### 🚀 About Me
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+
+## 🚀 About Me
 
 ```javascript
 const alice = {
@@ -41,31 +45,42 @@ const alice = {
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🔥 Highlights
 
-![HTML](https://img.shields.io/badge/Code-HTML-orange?style=flat\&logo=html5)
-![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat\&logo=css3)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat\&logo=javascript)
-![Java](https://img.shields.io/badge/Code-Java-red?style=flat\&logo=openjdk)
-![Flutter](https://img.shields.io/badge/Mobile-Flutter-blue?style=flat\&logo=flutter)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=flat\&logo=node.js)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat\&logo=mongodb)
+* 💸 Working on **Online Money Transfer System**
+* 🔐 Implementing **OTP Verification**
+* 📱 Building apps using **Flutter**
+* 🌐 Developing **Full Stack Web Applications**
+* 📚 Improving English & coding skills daily
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Toolbox
 
-![Alice's GitHub stats](https://github.com/alicebakeer)\&show_icons=true\&theme=radical)
-
----
-
-### 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,html,css,nodejs,mongodb,python,git,github,vscode" />
+</p>
 
 ---
 
-### 💡 Featured Project
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alicebakeer&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicebakeer&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicebakeer&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💡 Featured Project
 
 💸 **Online Money Transfer System**
 
@@ -76,13 +91,13 @@ const alice = {
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-* GitHub:(https://github.com/alicebakeer)
-* LinkedIn:(https://www.linkedin.com/in/alice-bakeer)
+* GitHub: https://github.com/alicebakeer
+* LinkedIn: https://www.linkedin.com/in/alice-bakeer
 
 ---
 
-### ⚡ Fun Quote
+## ⚡️ Motto
 
-*"Code. Learn. Repeat. 💻🔥"*
+> **"Code. Learn. Build. Repeat. 🚀"**
