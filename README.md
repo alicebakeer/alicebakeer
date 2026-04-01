@@ -72,14 +72,6 @@ const alice = {
 
 ---
 
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicebakeer&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💡 Featured Project
 
 💸 **Online Money Transfer System**
@@ -95,9 +87,3 @@ const alice = {
 
 * GitHub: https://github.com/alicebakeer
 * LinkedIn: https://www.linkedin.com/in/alice-bakeer
-
----
-
-## ⚡️ Motto
-
-> **"Code. Learn. Build. Repeat. 🚀"**
