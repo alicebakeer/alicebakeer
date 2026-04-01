@@ -55,7 +55,7 @@ const alice = {
 
 ### 📊 GitHub Stats
 
-![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Alice's GitHub stats](https://github.com/alicebakeer)\&show_icons=true\&theme=radical)
 
 ---
 
