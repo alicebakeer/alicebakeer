@@ -86,4 +86,4 @@ const alice = {
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/alicebakeer
-* LinkedIn: https://www.linkedin.com/in/alice-bakeer
+* LinkedIn: https://www.linkedin.com/in/alice-bakeer-76ba123b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios
